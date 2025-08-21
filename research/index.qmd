@@ -1,0 +1,13 @@
+---
+title: "Research"
+---
+
+# Working Papers & Projects
+
+## Project Title (example)
+**Abstract.** 2–4 sentences about question, data, design, result.  
+**Links:** [Paper](), [Slides](), [Code](https://github.com/your/repo)  
+**Key result:**  
+![](projects/project1/fig-key.png)
+
+> Put project assets in `projects/project1/` (figures, tables, PDFs).

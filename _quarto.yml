@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs   # GitHub Pages will publish from /docs
+
+website:
+  title: "Hema Balarama"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Writing"
+        href: writing/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: false
