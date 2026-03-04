@@ -4,6 +4,32 @@ title: "Research"
 
 # Working Papers & Projects
 
-This page is being updated.
+This page tracks active work streams. Public drafts and slides will be linked here as they are ready.
 
-Working papers, abstracts, and public links to drafts, slides, and code will be added here.
+## Current Projects
+
+::: {.grid-two}
+::: {.focus-card}
+### Barriers to mobility in urban labor markets
+Short abstract coming soon.
+
+<span class="status">Status:</span> data and empirical design in progress.
+:::
+
+::: {.focus-card}
+### Gendered labor adjustment under climate shocks
+Short abstract coming soon.
+
+<span class="status">Status:</span> ongoing literature synthesis and model setup.
+:::
+:::
+
+## Outputs
+
+- Working paper drafts: coming soon
+- Slide decks: coming soon
+- Replication code: selected projects only
+
+## Contact
+
+If you want the latest draft of a project, email [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk).

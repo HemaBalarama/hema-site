@@ -2,11 +2,22 @@
 title: "Teaching"
 ---
 
+I focus on clear intuition, applied examples, and supportive problem-solving sessions.
 
-**LSE** - TA, Econometrics (UG), 2024-2025
-- Tutorials and office hours support.
+## Teaching Experience
 
-**University of Toronto** - TA, Microeconomics, 2022-2023
-- Tutorials and student support.
+::: {.timeline}
+::: {.timeline-item}
+**LSE** - TA, Econometrics (UG), 2024-2025  
+Tutorials, office hours, and exam preparation support.
+:::
 
-Materials and links will be posted here as they become available.
+::: {.timeline-item}
+**University of Toronto** - TA, Microeconomics, 2022-2023  
+Tutorial support, problem-set guidance, and review sessions.
+:::
+:::
+
+## Materials
+
+Public teaching materials will be posted here as they become available.

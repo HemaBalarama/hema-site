@@ -6,6 +6,7 @@ project:
     - research/index.qmd
     - teaching/index.qmd
     - writing/index.qmd
+    - writing/posts/*.qmd
 
 website:
   title: "Hema Balarama"
@@ -19,8 +20,11 @@ website:
         href: teaching/index.qmd
       - text: "Writing"
         href: writing/index.qmd
+  page-footer:
+    center: "Hema Balarama"
 
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false

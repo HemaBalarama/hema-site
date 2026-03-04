@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Lora:wght@500;700&display=swap");
+
+:root {
+  --site-bg: #fffdf8;
+  --surface: #ffffff;
+  --ink: #1f2430;
+  --muted: #4e596e;
+  --accent: #006d77;
+  --accent-soft: #d9f0f2;
+  --line: #d9d5cb;
+  --hero-grad: radial-gradient(circle at 15% 20%, #d6f2f5 0%, #fffdf8 60%);
+}
+
+body {
+  background: var(--hero-grad);
+  color: var(--ink);
+  font-family: "Manrope", "Segoe UI", sans-serif;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(6px);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--ink);
+  font-family: "Lora", Georgia, serif;
+  letter-spacing: 0.01em;
+}
+
+p,
+li {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+main.content {
+  max-width: 920px;
+}
+
+.hero {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 2rem;
+  margin-bottom: 1.75rem;
+  box-shadow: 0 16px 32px rgba(31, 36, 48, 0.05);
+}
+
+.hero h1 {
+  margin-top: 0;
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+.hero-lede {
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+}
+
+.badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1rem 0;
+}
+
+.badge {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.quick-links {
+  margin-top: 0.75rem;
+  font-weight: 600;
+}
+
+.grid-two {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.focus-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+}
+
+.focus-card h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.45rem;
+  font-size: 1.15rem;
+}
+
+.section-intro {
+  margin-bottom: 0.8rem;
+}
+
+.status {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.timeline {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 0.8rem;
+}
+
+.timeline-item {
+  background: var(--surface);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+}
+
+.timeline-item strong {
+  color: var(--ink);
+}
+
+.writing-note {
+  margin-bottom: 1rem;
+  padding: 0.9rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 1.35rem;
+  }
+
+  .grid-two {
+    grid-template-columns: 1fr;
+  }
+}

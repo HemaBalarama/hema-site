@@ -6,4 +6,6 @@ listing:
   type: default
 ---
 
-Public essays and notes will be posted here.
+::: {.writing-note}
+This page collects public-facing notes and short essays on research methods, policy questions, and academic work in progress.
+:::

@@ -3,11 +3,49 @@ title: ""
 page-layout: article
 ---
 
+::: {.hero}
 # Hema Balarama
 
-Economics PhD @ LSE. I study **inequality**, **gender & labor**, and **climate vulnerability** in LMICs.
+Economics PhD candidate at LSE studying inequality, gender and labor markets, and climate vulnerability in LMICs.
 
-- **Interests:** economic mobility, institutions, social norms, climate shocks
-- **Contact:** [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk)
-- **CV:** available on request
-- **Profiles:** Google Scholar (link coming soon), GitHub (link coming soon)
+::: {.badge-row}
+<span class="badge">inequality</span>
+<span class="badge">labor markets</span>
+<span class="badge">social norms</span>
+<span class="badge">climate shocks</span>
+:::
+
+::: {.quick-links}
+[Email](mailto:h.balarama@lse.ac.uk) | CV available on request
+:::
+:::
+
+## Research Focus
+
+::: {.grid-two}
+::: {.focus-card}
+### Mobility and inequality
+How institutions and social norms shape intergenerational mobility and life chances.
+:::
+
+::: {.focus-card}
+### Gender and labor
+How women respond to labor demand, constraints, and policy interventions.
+:::
+
+::: {.focus-card}
+### Climate vulnerability
+How climate shocks affect household decisions, employment, and resilience.
+:::
+
+::: {.focus-card}
+### Evidence and policy
+Applied micro methods to produce policy-relevant evidence in LMIC settings.
+:::
+:::
+
+## Site Map
+
+- Research: project summaries, drafts, and talks
+- Teaching: courses, tutorials, and materials
+- Writing: public notes and essays
