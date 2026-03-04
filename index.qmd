@@ -7,5 +7,7 @@ page-layout: article
 
 Economics PhD @ LSE. I study **inequality**, **gender & labor**, and **climate vulnerability** in LMICs.
 
-- **Interests:** economic mobility · institutions · social norms · climate shocks  
-- **Contact:** h.balarama@lse.ac.uk · [CV](CV.pdf) · [Google Scholar](#) · [GitHub](#)
+- **Interests:** economic mobility, institutions, social norms, climate shocks
+- **Contact:** [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk)
+- **CV:** available on request
+- **Profiles:** Google Scholar (link coming soon), GitHub (link coming soon)

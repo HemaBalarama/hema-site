@@ -1,0 +1,7 @@
+---
+title: "On measuring structural barriers"
+date: 2025-08-21
+draft: true   # keep as draft until ready
+---
+
+A short practice post for academic writing.
