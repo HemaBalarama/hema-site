@@ -16,8 +16,6 @@ website:
         href: research/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
-  page-footer:
-    center: "Hema Balarama"
 
 format:
   html:

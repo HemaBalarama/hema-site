@@ -5,10 +5,10 @@ page-layout: article
 
 # Hema Balarama
 
-MRes in Economics Candidate, Department of Economics, London School of Economics and Political Science  
+MRes/PhD Economics candidate, Department of Economics, London School of Economics and Political Science  
 {.meta}
 
-Hema is an MRes Economics student on the MRes/PhD Economics programme. Her research interests lie in development, environmental, and labour economics.
+My research interests are in development, environmental, and labour economics.
 {.lead}
 
 MA in Economics (University of Toronto); BComm (Hons) in Econometrics and Economics (Monash University). Previously, predoctoral researcher at the Yale Economic Growth Center.

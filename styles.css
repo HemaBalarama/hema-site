@@ -1,37 +1,32 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap");
 
 :root {
-  --bg: #f4f4f2;
-  --paper: #ffffff;
-  --text: #1f1f1f;
-  --muted: #555555;
-  --line: #d9d9d9;
-  --link: #2f2f2f;
+  --text: #202124;
+  --muted: #4f5257;
+  --line: #e3e3e3;
+  --link: #2a2a2a;
   --link-hover: #000000;
 }
 
 body {
   font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
   color: var(--text);
-  background: var(--bg);
+  background: #ffffff;
 }
 
 .navbar {
+  background: #ffffff;
   border-bottom: 1px solid var(--line);
-  background-color: var(--paper);
 }
 
 .navbar-title,
 .menu-text {
+  font-size: 0.96rem;
   letter-spacing: 0.01em;
 }
 
 main.content {
   max-width: 760px;
-  background: var(--paper);
-  border: 1px solid var(--line);
-  border-radius: 2px;
-  padding: 2rem 2.2rem;
 }
 
 h1,
@@ -42,12 +37,12 @@ h3 {
 }
 
 h1.title {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.1rem;
 }
 
 h2 {
-  margin-top: 1.8rem;
-  margin-bottom: 0.65rem;
+  margin-top: 1.7rem;
+  margin-bottom: 0.6rem;
   font-size: 1.35rem;
 }
 
@@ -60,7 +55,11 @@ h3 {
 p,
 li {
   color: var(--muted);
-  line-height: 1.68;
+  line-height: 1.66;
+}
+
+li {
+  margin-bottom: 0.22rem;
 }
 
 strong {
@@ -81,28 +80,30 @@ a:hover {
 hr {
   border: 0;
   border-top: 1px solid var(--line);
-  margin: 1.6rem 0;
+  margin: 1.4rem 0;
 }
 
 .lead {
-  color: #3f3f3f;
-  font-size: 1.03rem;
+  color: #404349;
+  font-size: 1.02rem;
 }
 
 .meta {
-  color: #6a6a6a;
+  color: #6a6d73;
   font-size: 0.95rem;
+}
+
+.teaching-institution {
+  margin-top: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.teaching-meta {
+  color: #34363b;
+  font-size: 0.98rem;
+  margin-bottom: 0.65rem;
 }
 
 .quarto-title-meta {
   display: none;
-}
-
-@media (max-width: 900px) {
-  main.content {
-    padding: 1.3rem 1.05rem;
-    border-left: 0;
-    border-right: 0;
-    border-radius: 0;
-  }
 }
