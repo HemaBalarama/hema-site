@@ -5,8 +5,6 @@ project:
     - index.qmd
     - research/index.qmd
     - teaching/index.qmd
-    - writing/index.qmd
-    - writing/posts/*.qmd
 
 website:
   title: "Hema Balarama"
@@ -18,8 +16,6 @@ website:
         href: research/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
-      - text: "Writing"
-        href: writing/index.qmd
   page-footer:
     center: "Hema Balarama"
 

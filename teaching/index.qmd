@@ -2,16 +2,11 @@
 title: "Teaching"
 ---
 
-I focus on clear intuition, applied examples, and structured student support.
-
 ## Teaching Experience
 
-**LSE** - TA, Econometrics (UG), 2024-2025  
-Tutorials, office hours, and exam preparation support.
+### London School of Economics and Political Science
 
-**University of Toronto** - TA, Microeconomics, 2022-2023  
-Tutorial support, problem-set guidance, and review sessions.
+**Department of Economics** | Fall 2025 - Winter 2026
 
-## Materials
-
-Public teaching materials will be posted here as they become available.
+- EC2C3: Econometrics I - *Fall 2025*
+- EC2C1: Econometrics II - *Winter 2026*

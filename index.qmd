@@ -5,27 +5,12 @@ page-layout: article
 
 # Hema Balarama
 
-Economics PhD candidate, London School of Economics and Political Science  
+MRes in Economics Candidate, Department of Economics, London School of Economics and Political Science  
 {.meta}
 
-I study inequality, gender and labor markets, and climate vulnerability in low- and middle-income countries.
+Hema is an MRes Economics student on the MRes/PhD Economics programme. Her research interests lie in development, environmental, and labour economics.
 {.lead}
 
-## Research Interests
+MA in Economics (University of Toronto); BComm (Hons) in Econometrics and Economics (Monash University). Previously, predoctoral researcher at the Yale Economic Growth Center.
 
-- Economic mobility and inequality
-- Gender and labor market adjustment
-- Climate shocks, vulnerability, and resilience
-- Applied microeconomics for policy design
-
-## Contact
-
-- Email: [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk)
-- CV: available on request
-- Google Scholar: link coming soon
-
-## Sections
-
-- [Research](research/index.qmd)
-- [Teaching](teaching/index.qmd)
-- [Writing](writing/index.qmd)
+[Email](mailto:h.balarama@lse.ac.uk) | [Research](research/index.qmd) | [Teaching](teaching/index.qmd)

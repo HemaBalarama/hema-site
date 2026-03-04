@@ -2,24 +2,12 @@
 title: "Research"
 ---
 
-# Working Papers and Projects
+# Research Interests
 
-This page lists ongoing work. Public drafts and slides will be added as they become available.
-
-## Work in Progress
-
-### Barriers to mobility in urban labor markets
-Status: empirical design in progress.
-
-### Gendered labor adjustment under climate shocks
-Status: literature review and model setup.
-
-## Outputs
-
-- Working paper drafts: coming soon
-- Slide decks: coming soon
-- Replication code: selected projects
+- Development economics
+- Environmental economics
+- Labour economics
 
 ## Contact
 
-For current drafts, contact [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk).
+For ongoing work and draft requests, please email [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk).
