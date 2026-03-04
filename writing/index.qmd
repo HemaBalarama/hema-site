@@ -6,3 +6,4 @@ listing:
   type: default
 ---
 
+Public essays and notes will be posted here.

@@ -1,6 +1,0 @@
----
-title: "Ideas (private)"
-draft: true
----
-
-Scratchpad for brainstorming (won’t be published).

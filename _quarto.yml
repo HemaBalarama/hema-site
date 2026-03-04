@@ -1,6 +1,11 @@
 project:
   type: website
-  output-dir: docs   # GitHub Pages will publish from /docs
+  output-dir: docs   # GitHub Actions builds and deploys this directory
+  render:
+    - index.qmd
+    - research/index.qmd
+    - teaching/index.qmd
+    - writing/index.qmd
 
 website:
   title: "Hema Balarama"
