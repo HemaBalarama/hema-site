@@ -1,145 +1,124 @@
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Lora:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap");
 
 :root {
-  --site-bg: #fffdf8;
-  --surface: #ffffff;
-  --ink: #1f2430;
-  --muted: #4e596e;
-  --accent: #006d77;
-  --accent-soft: #d9f0f2;
-  --line: #d9d5cb;
-  --hero-grad: radial-gradient(circle at 15% 20%, #d6f2f5 0%, #fffdf8 60%);
+  --bg-top: #f7f7f3;
+  --bg-bottom: #f1f0ea;
+  --paper: #fbfbf8;
+  --text: #1c2026;
+  --muted: #4f5763;
+  --line: #d8d7cf;
+  --link: #234f78;
+  --link-hover: #183a59;
 }
 
 body {
-  background: var(--hero-grad);
-  color: var(--ink);
-  font-family: "Manrope", "Segoe UI", sans-serif;
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(1200px 480px at 0% -10%, rgba(190, 200, 186, 0.22), transparent 65%),
+    linear-gradient(180deg, var(--bg-top) 0%, var(--bg-bottom) 100%);
 }
 
 .navbar {
   border-bottom: 1px solid var(--line);
-  backdrop-filter: blur(6px);
+  background-color: rgba(251, 251, 248, 0.94);
+  backdrop-filter: blur(4px);
+}
+
+.navbar-title,
+.menu-text {
+  letter-spacing: 0.01em;
+}
+
+main.content {
+  max-width: 760px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 2rem 2.2rem;
+  animation: page-enter 320ms ease-out both;
 }
 
 h1,
 h2,
 h3 {
-  color: var(--ink);
-  font-family: "Lora", Georgia, serif;
-  letter-spacing: 0.01em;
+  font-family: "Source Serif 4", Georgia, serif;
+  color: #171a1f;
+}
+
+h1.title {
+  margin-bottom: 1.25rem;
+}
+
+h2 {
+  margin-top: 1.9rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.4rem;
+}
+
+h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.35rem;
+  font-size: 1.12rem;
 }
 
 p,
 li {
   color: var(--muted);
-  line-height: 1.7;
+  line-height: 1.72;
 }
 
-main.content {
-  max-width: 920px;
-}
-
-.hero {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  padding: 2rem;
-  margin-bottom: 1.75rem;
-  box-shadow: 0 16px 32px rgba(31, 36, 48, 0.05);
-}
-
-.hero h1 {
-  margin-top: 0;
-  font-size: clamp(2rem, 4vw, 3rem);
-}
-
-.hero-lede {
-  font-size: 1.05rem;
-  margin-bottom: 1rem;
-}
-
-.badge-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-  margin: 1rem 0;
-}
-
-.badge {
-  background: var(--accent-soft);
-  color: var(--accent);
-  border-radius: 999px;
-  padding: 0.25rem 0.7rem;
-  font-size: 0.82rem;
-  font-weight: 700;
-}
-
-.quick-links {
-  margin-top: 0.75rem;
+strong {
+  color: var(--text);
   font-weight: 600;
 }
 
-.grid-two {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 1rem 0 1.5rem;
+a {
+  color: var(--link);
+  text-decoration-thickness: 0.05em;
+  text-underline-offset: 0.14em;
 }
 
-.focus-card {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  padding: 1rem 1.1rem;
+a:hover {
+  color: var(--link-hover);
 }
 
-.focus-card h3 {
-  margin-top: 0.2rem;
-  margin-bottom: 0.45rem;
-  font-size: 1.15rem;
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 1.8rem 0;
 }
 
-.section-intro {
-  margin-bottom: 0.8rem;
+.lead {
+  color: #333b47;
+  font-size: 1.06rem;
 }
 
-.status {
-  color: var(--accent);
-  font-weight: 700;
+.meta {
+  color: #666d79;
+  font-size: 0.95rem;
 }
 
-.timeline {
-  display: grid;
-  gap: 0.85rem;
-  margin-top: 0.8rem;
+.quarto-title-meta {
+  display: none;
 }
 
-.timeline-item {
-  background: var(--surface);
-  border-left: 4px solid var(--accent);
-  border-radius: 10px;
-  padding: 0.9rem 1rem;
-}
-
-.timeline-item strong {
-  color: var(--ink);
-}
-
-.writing-note {
-  margin-bottom: 1rem;
-  padding: 0.9rem 1rem;
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 10px;
-}
-
-@media (max-width: 768px) {
-  .hero {
-    padding: 1.35rem;
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
   }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
-  .grid-two {
-    grid-template-columns: 1fr;
+@media (max-width: 900px) {
+  main.content {
+    padding: 1.35rem 1.1rem;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
   }
 }

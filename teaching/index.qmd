@@ -2,21 +2,15 @@
 title: "Teaching"
 ---
 
-I focus on clear intuition, applied examples, and supportive problem-solving sessions.
+I focus on clear intuition, applied examples, and structured student support.
 
 ## Teaching Experience
 
-::: {.timeline}
-::: {.timeline-item}
 **LSE** - TA, Econometrics (UG), 2024-2025  
 Tutorials, office hours, and exam preparation support.
-:::
 
-::: {.timeline-item}
 **University of Toronto** - TA, Microeconomics, 2022-2023  
 Tutorial support, problem-set guidance, and review sessions.
-:::
-:::
 
 ## Materials
 

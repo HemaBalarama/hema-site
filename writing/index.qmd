@@ -3,9 +3,8 @@ title: "Writing"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: table
+  fields: [date, title]
 ---
 
-::: {.writing-note}
-This page collects public-facing notes and short essays on research methods, policy questions, and academic work in progress.
-:::
+Public notes and short essays on methods, policy questions, and academic work.

@@ -25,6 +25,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: default
     css: styles.css
     toc: false
