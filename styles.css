@@ -1,109 +1,120 @@
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap");
-
 :root {
-  --text: #202124;
-  --muted: #4f5257;
-  --line: #e3e3e3;
-  --link: #2a2a2a;
-  --link-hover: #000000;
+  --gh-bg: #ffffff;
+  --gh-text: #1f2328;
+  --gh-muted: #59636e;
+  --gh-border: #d0d7de;
+  --gh-link: #0969da;
+  --gh-link-hover: #0a58ca;
 }
 
 body {
-  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
-  color: var(--text);
-  background: #ffffff;
+  background: var(--gh-bg);
+  color: var(--gh-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 .navbar {
-  background: #ffffff;
-  border-bottom: 1px solid var(--line);
+  background: var(--gh-bg);
+  border-bottom: 1px solid var(--gh-border);
+  box-shadow: none;
 }
 
 .navbar-title,
 .menu-text {
-  font-size: 0.96rem;
-  letter-spacing: 0.01em;
+  color: var(--gh-text);
+  font-size: 15px;
+  font-weight: 500;
 }
 
 main.content {
-  max-width: 760px;
+  max-width: 860px;
 }
 
 h1,
 h2,
 h3 {
-  font-family: "Source Serif 4", Georgia, serif;
-  color: var(--text);
+  color: var(--gh-text);
+  font-weight: 600;
+  line-height: 1.25;
 }
 
 h1.title {
-  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 h2 {
-  margin-top: 1.7rem;
-  margin-bottom: 0.6rem;
-  font-size: 1.35rem;
+  border-bottom: 1px solid var(--gh-border);
+  font-size: 1.45rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.35rem;
 }
 
 h3 {
-  margin-top: 1.2rem;
-  margin-bottom: 0.35rem;
-  font-size: 1.08rem;
+  font-size: 1.15rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 p,
 li {
-  color: var(--muted);
-  line-height: 1.66;
+  color: var(--gh-text);
+  line-height: 1.65;
 }
 
 li {
-  margin-bottom: 0.22rem;
+  margin-bottom: 0.3rem;
 }
 
 strong {
-  color: var(--text);
+  color: var(--gh-text);
   font-weight: 600;
 }
 
 a {
-  color: var(--link);
+  color: var(--gh-link);
+  text-decoration: none;
   text-decoration-thickness: 0.05em;
   text-underline-offset: 0.14em;
 }
 
 a:hover {
-  color: var(--link-hover);
+  color: var(--gh-link-hover);
+  text-decoration: underline;
 }
 
 hr {
   border: 0;
-  border-top: 1px solid var(--line);
-  margin: 1.4rem 0;
+  border-top: 1px solid var(--gh-border);
+  margin: 1.8rem 0;
 }
 
 .lead {
-  color: #404349;
-  font-size: 1.02rem;
+  color: var(--gh-text);
+  font-size: 1.06rem;
 }
 
 .meta {
-  color: #6a6d73;
-  font-size: 0.95rem;
-}
-
-.teaching-institution {
-  margin-top: 0.9rem;
-  margin-bottom: 0.25rem;
-}
-
-.teaching-meta {
-  color: #34363b;
+  color: var(--gh-muted);
   font-size: 0.98rem;
-  margin-bottom: 0.65rem;
 }
 
 .quarto-title-meta {
   display: none;
+}
+
+blockquote {
+  border-left: 0.25em solid var(--gh-border);
+  color: var(--gh-muted);
+  margin: 0 0 1rem;
+  padding: 0 1rem;
+}
+
+@media (max-width: 768px) {
+  h1.title {
+    font-size: 1.75rem;
+  }
 }

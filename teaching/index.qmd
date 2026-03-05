@@ -4,10 +4,9 @@ title: "Teaching"
 
 ## Teaching Experience
 
-### London School of Economics and Political Science { .teaching-institution }
+### London School of Economics and Political Science
 
-Department of Economics | Fall 2025-Winter 2026
-{.teaching-meta}
+Department of Economics
 
-- EC2C3: Econometrics I - *Fall 2025*
-- EC2C1: Econometrics II - *Winter 2026*
+1. Fall 2025: EC2C3 Econometrics I
+2. Winter 2026: EC2C1 Econometrics II

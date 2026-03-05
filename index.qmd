@@ -13,4 +13,11 @@ My research interests are in development, environmental, and labour economics.
 
 MA in Economics (University of Toronto); BComm (Hons) in Econometrics and Economics (Monash University). Previously, predoctoral researcher at the Yale Economic Growth Center.
 
-[Email](mailto:h.balarama@lse.ac.uk) | [Research](research/index.qmd) | [Teaching](teaching/index.qmd)
+## Contact
+
+- Email: [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk)
+
+## Pages
+
+- [Research](research/index.qmd)
+- [Teaching](teaching/index.qmd)
