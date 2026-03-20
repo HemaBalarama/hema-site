@@ -17,8 +17,8 @@ title: "Teaching"
 
 | Term | Course |
 |------|--------|
-| Fall 2021 | ECO372 · Data Analysis and Applied Econometrics in Practice |
-| Winter 2022 | ECO102 · Principles of Macroeconomics |
+| Fall 2021 | [ECO372](https://artsci.calendar.utoronto.ca/course/eco372h1) · Data Analysis and Applied Econometrics in Practice |
+| Winter 2022 | [ECO102](https://artsci.calendar.utoronto.ca/course/eco102h1) · Principles of Macroeconomics |
 
 ## Monash University
 
@@ -26,26 +26,26 @@ title: "Teaching"
 
 | Course | Title |
 |--------|-------|
-| ETC1000 | Business and Economic Statistics |
-| ETC2410 | Introductory Econometrics |
-| ETC3400 | Principles of Econometrics |
-| ETC3460 | Financial Econometrics |
-| ETF3600 | Quantitative Analysis of Limited Dependent Variables *(Caulfield)* |
-| ETF5930 | Financial Econometrics *(Caulfield)* |
-| ETX2250 | Data Visualisation and Analytics |
+| [ETC1000](https://handbook.monash.edu/2021/units/ETC1000?year=2021) | Business and Economic Statistics |
+| [ETC2410](https://handbook.monash.edu/2021/units/ETC2410?year=2021) | Introductory Econometrics |
+| [ETC3400](https://handbook.monash.edu/2021/units/ETC3400?year=2021) | Principles of Econometrics |
+| [ETC3460](https://handbook.monash.edu/2021/units/ETC3460?year=2021) | Financial Econometrics |
+| [ETF3600](https://handbook.monash.edu/2021/units/ETF3600?year=2021) | Quantitative Analysis of Limited Dependent Variables *(Caulfield)* |
+| [ETF5930](https://handbook.monash.edu/2021/units/ETF5930?year=2021) | Financial Econometrics *(Caulfield)* |
+| [ETX2250](https://handbook.monash.edu/2021/units/ETX2250) | Data Visualisation and Analytics |
 
 **Department of Finance** · Feb 2019 – Dec 2020
 
 | Course | Title |
 |--------|-------|
-| BFC3241 | Equities and Investment Analysis |
+| [BFC3241](https://handbook.monash.edu/2021/units/BFC3241?year=2021) | Equities and Investment Analysis |
 
 **Department of Economics** · Aug 2018 – Dec 2019
 
 | Course | Title |
 |--------|-------|
-| ECC1000 | Principles of Microeconomics |
-| ECC1100 | Principles of Macroeconomics |
+| [ECC1000](https://handbook.monash.edu/2021/units/ECC1000?year=2021) | Principles of Microeconomics |
+| [ECC1100](https://handbook.monash.edu/2021/units/ECC1100?year=2021) | Principles of Macroeconomics |
 
 ## University of Melbourne
 
@@ -53,5 +53,5 @@ title: "Teaching"
 
 | Course | Title |
 |--------|-------|
-| BUSA90499 | Introduction to Business Problems |
-| BUSA90500 | Business Analytics Foundations (Statistical Learning I) |
+| [BUSA90499](https://handbook.unimelb.edu.au/2021/subjects/busa90499) | Introduction to Business Problems |
+| [BUSA90500](https://handbook.unimelb.edu.au/2021/subjects/busa90500) | Business Analytics Foundations (Statistical Learning I) |
