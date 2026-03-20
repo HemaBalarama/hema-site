@@ -6,23 +6,72 @@ A collection of artworks I keep coming back to.
 
 ---
 
-<!--
-HOW TO ADD A NEW ARTWORK
-========================
-1. Save your image to art/images/  (jpg, png, or webp)
-2. Copy one .art-item block below and fill in:
-   - the image path  →  images/your-file.jpg
-   - the title       →  artwork title
-   - the credit line →  Artist Name, Year  (wrapped in [  ]{.art-caption})
--->
+## Andhra Pradesh
 
 :::{.art-grid}
 
 ::::{.art-item}
-![](images/placeholder.svg)
+![Kalamkari hand-painted cloth, Sri Kalahasti, Andhra Pradesh](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KALAMKARI_HAND_PAINTED_CLOTH_SRIKALAHASTI_AP_-_panoramio.jpg/600px-KALAMKARI_HAND_PAINTED_CLOTH_SRIKALAHASTI_AP_-_panoramio.jpg)
 
-**Your first artwork**
-[Add an image to `art/images/` and update this page]{.art-caption}
+**Kalamkari, Sri Kalahasti**
+[Hand-painted cloth · Sri Kalahasti, Andhra Pradesh]{.art-caption}
+::::
+
+::::{.art-item}
+![Kalamkari, Andhra Pradesh](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kalamkari_Art.jpg/600px-Kalamkari_Art.jpg)
+
+**Kalamkari**
+[Pen-and-dye textile art · Andhra Pradesh]{.art-caption}
+::::
+
+::::{.art-item}
+![Kalamkari wall hanging, Brooklyn Museum](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brooklyn_Museum_-_Wall_Hanging_%28Kalamkari%29_-_overall.jpg/400px-Brooklyn_Museum_-_Wall_Hanging_%28Kalamkari%29_-_overall.jpg)
+
+**Kalamkari Wall Hanging**
+[Cotton, natural dyes · Brooklyn Museum]{.art-caption}
+::::
+
+::::{.art-item}
+![Mural inside Veerabhadra Temple, Lepakshi](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mural_inside_Virabhadra_temple.JPG/600px-Mural_inside_Virabhadra_temple.JPG)
+
+**Lepakshi Mural**
+[Veerabhadra Temple · Vijayanagara period, 16th century]{.art-caption}
 ::::
 
 :::
+
+---
+
+## Southeast Asia
+
+:::{.art-grid}
+
+::::{.art-item}
+![Vinh Hoa, Dong Ho folk painting, Vietnam](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Vinh_hoa.JPG/600px-Vinh_hoa.JPG)
+
+**Vinh Hoa (Glorious Harmony)**
+[Đông Hồ folk painting · Vietnam]{.art-caption}
+::::
+
+::::{.art-item}
+![Hai Ba Trung, Dong Ho painting](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hai_ba_trung_Dong_Ho_painting.jpg/600px-Hai_ba_trung_Dong_Ho_painting.jpg)
+
+**Hai Bà Trưng**
+[Đông Hồ folk painting · Vietnam]{.art-caption}
+::::
+
+::::{.art-item}
+![Hái dừa, Dong Ho painting](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/H%C3%A1i_d%E1%BB%ABa.JPG/600px-H%C3%A1i_d%E1%BB%ABa.JPG)
+
+**Hái Dừa (Coconut Harvesting)**
+[Đông Hồ folk painting · Vietnam]{.art-caption}
+::::
+
+:::
+
+<!--
+HOW TO ADD A NEW ARTWORK
+========================
+1. Save your image to art/images/  (jpg, png, or webp)  — OR use an external URL
+2. Copy one .art-item block and fill in the image path/URL, title, and caption
+-->
