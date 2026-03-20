@@ -5,19 +5,12 @@ page-layout: article
 
 # Hema Balarama
 
-MRes/PhD Economics candidate, Department of Economics, London School of Economics and Political Science  
-{.meta}
+[MRes/PhD Economics candidate · Department of Economics · London School of Economics]{.meta}
 
-My research interests are in development, environmental, and labour economics.
-{.lead}
+My research interests are in **development**, **environmental**, and **labour economics**.
 
-MA in Economics (University of Toronto); BComm (Hons) in Econometrics and Economics (Monash University). Previously, predoctoral researcher at the Yale Economic Growth Center.
+I hold an MA in Economics from the University of Toronto and a BComm (Hons) in Econometrics and Economics from Monash University. Prior to LSE, I was a Tobin Predoctoral Fellow at the Yale Economic Growth Center, where I worked with Professor Rohini Pande on projects examining women's mobile access and economic outcomes in developing countries.
 
 ## Contact
 
-- Email: [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk)
-
-## Pages
-
-- [Research](research/index.qmd)
-- [Teaching](teaching/index.qmd)
+[h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk)

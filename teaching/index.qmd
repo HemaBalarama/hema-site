@@ -2,11 +2,56 @@
 title: "Teaching"
 ---
 
-## Teaching Experience
+## London School of Economics and Political Science
 
-### London School of Economics and Political Science
+**Department of Economics**
 
-Department of Economics
+| Term | Course |
+|------|--------|
+| Fall 2025 | EC2C3 · Econometrics I |
+| Winter 2026 | EC2C1 · Econometrics II |
 
-1. Fall 2025: EC2C3 Econometrics I
-2. Winter 2026: EC2C1 Econometrics II
+## University of Toronto
+
+**Department of Economics** · Sept 2021 – Apr 2022
+
+| Term | Course |
+|------|--------|
+| Fall 2021 | ECO372 · Data Analysis and Applied Econometrics in Practice |
+| Winter 2022 | ECO102 · Principles of Macroeconomics |
+
+## Monash University
+
+**Department of Econometrics and Business Statistics** · Feb 2018 – Jul 2021
+
+| Course | Title |
+|--------|-------|
+| ETC1000 | Business and Economic Statistics |
+| ETC2410 | Introductory Econometrics |
+| ETC3400 | Principles of Econometrics |
+| ETC3460 | Financial Econometrics |
+| ETF3600 | Quantitative Analysis of Limited Dependent Variables *(Caulfield)* |
+| ETF5930 | Financial Econometrics *(Caulfield)* |
+| ETX2250 | Data Visualisation and Analytics |
+
+**Department of Finance** · Feb 2019 – Dec 2020
+
+| Course | Title |
+|--------|-------|
+| BFC3241 | Equities and Investment Analysis |
+
+**Department of Economics** · Aug 2018 – Dec 2019
+
+| Course | Title |
+|--------|-------|
+| ECC1000 | Principles of Microeconomics |
+| ECC1100 | Principles of Macroeconomics |
+
+## University of Melbourne
+
+**Melbourne Business School** · Feb 2020 – May 2020
+
+| Course | Title |
+|--------|-------|
+| BUSA90499 | Introduction to Business Problems |
+| BUSA90500 | Business Analytics Foundations (Statistical Learning I) |

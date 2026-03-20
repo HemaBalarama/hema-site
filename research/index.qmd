@@ -2,7 +2,28 @@
 title: "Research"
 ---
 
-# Research Interests
+My work sits at the intersection of development, environmental, and labour economics, with a focus on welfare in developing economies.
+
+## Working Papers
+
+*Coming soon.*
+
+## Publications
+
+**Price elasticities of residential electricity demand: Estimates from household panel data in Bangladesh**
+Balarama, H., Islam, A., Kim, J. S., & Wang, L. C.
+*Energy Economics*, 92, 2020.
+[https://doi.org/10.1016/j.eneco.2020.104937](https://doi.org/10.1016/j.eneco.2020.104937)
+
+## Research Experience
+
+**Yale Economic Growth Center** · Tobin Predoctoral Fellow
+Working with Professor Rohini Pande on the gender portfolio, focusing on women's mobile access and economic outcomes in developing countries.
+
+**Monash University** · Laboratory Assistant and Research Assistant
+Worked across multiple supervisors on projects spanning energy and environment, health and COVID-19, and K-12 education. Responsibilities included data cleaning and processing from census, survey, and administrative sources; code development for reproducible analysis; survey design and primary data collection support; grant applications and policy documentation; and statistical analysis and literature reviews.
+
+## Research Interests
 
 - Development economics
 - Environmental economics
@@ -10,4 +31,4 @@ title: "Research"
 
 ## Contact
 
-For ongoing work and draft requests, please email [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk).
+For draft requests or research inquiries, email [h.balarama@lse.ac.uk](mailto:h.balarama@lse.ac.uk).

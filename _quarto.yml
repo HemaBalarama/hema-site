@@ -5,6 +5,7 @@ project:
     - index.qmd
     - research/index.qmd
     - teaching/index.qmd
+    - art/index.qmd
 
 website:
   title: "Hema Balarama"
@@ -16,6 +17,8 @@ website:
         href: research/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
+      - text: "Art"
+        href: art/index.qmd
 
 format:
   html:
