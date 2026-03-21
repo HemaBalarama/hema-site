@@ -1,14 +1,21 @@
 [
   {
     "listing": "/writing/essays/index.html",
-    "items": []
+    "items": [
+      "/writing/essays/posts/sample.html"
+    ]
   },
   {
     "listing": "/writing/art-reviews/index.html",
-    "items": []
+    "items": [
+      "/writing/art-reviews/posts/on-going-to-the-flower.html",
+      "/writing/art-reviews/posts/sample.html"
+    ]
   },
   {
     "listing": "/writing/travel/index.html",
-    "items": []
+    "items": [
+      "/writing/travel/posts/sample.html"
+    ]
   }
 ]

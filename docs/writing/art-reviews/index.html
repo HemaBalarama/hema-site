@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -219,15 +219,52 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<table class="quarto-listing-table table caption-top" data-quarto-postprocess="true">
+<table class="quarto-listing-table table">
 <thead>
-<tr class="header">
-<th data-quarto-table-cell-role="th">Date</th>
-<th data-quarto-table-cell-role="th">Title</th>
-<th data-quarto-table-cell-role="th">Description</th>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+Title
+</th>
+
+<th>
+Description
+</th>
+
 </tr>
 </thead>
 <tbody class="list">
+
+<tr data-index="0" data-listing-date-sort="1774051200000" data-listing-file-modified-sort="1774136439805" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="485" data-listing-title-sort="On Going to the Flower" data-listing-filename-sort="on-going-to-the-flower.qmd">
+<td>
+<span class="listing-date">Mar 2026</span>
+</td>
+<td>
+<a href="../../writing/art-reviews/posts/on-going-to-the-flower.html" class="title listing-title">On Going to the Flower</a>
+</td>
+<td>
+<span class="listing-description">On lotus, lost songs, distant friends, and what Okakura Kazuko quietly understood about all of them.</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-date-sort="1772323200000" data-listing-file-modified-sort="1774134074579" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16" data-listing-title-sort="Sample Review" data-listing-filename-sort="sample.qmd">
+<td>
+<span class="listing-date">Mar 2026</span>
+</td>
+<td>
+<a href="../../writing/art-reviews/posts/sample.html" class="title listing-title">Sample Review</a>
+</td>
+<td>
+<span class="listing-description">A placeholder post — replace this with your first review.</span>
+</td>
+
+</tr>
+
 </tbody>
 </table>
 <div class="listing-no-matching d-none">No matching items</div>

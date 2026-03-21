@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "writing/travel/posts/sample.html",
+    "href": "writing/travel/posts/sample.html",
+    "title": "Sample Travel Note",
+    "section": "",
+    "text": "This is a template for a travel writing post. Delete or replace with your own writing."
+  },
+  {
+    "objectID": "writing/index.html",
+    "href": "writing/index.html",
+    "title": "Writing",
+    "section": "",
+    "text": "A collection of writing outside the bounds of academic work — on art, on travel, and on ideas that run alongside my research.\n\n\nArt Reviews & Commentary\nReflections on exhibitions, artworks, and artists — with a particular interest in South and Southeast Asian traditions.\n\n\n\nTravel\nNotes from places visited: the textures, rhythms, and details that stay with you.\n\n\n\nEssays\nLonger-form thinking on economics, culture, and the spaces where they overlap."
+  },
+  {
     "objectID": "writing/essays/index.html",
     "href": "writing/essays/index.html",
     "title": "Essays",
     "section": "",
-    "text": "Date\nTitle\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nSample Essay\n\n\nA placeholder post — replace this with your first essay.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "writing/art-reviews/index.html",
-    "href": "writing/art-reviews/index.html",
-    "title": "Art Reviews & Commentary",
+    "objectID": "writing/art-reviews/posts/on-going-to-the-flower.html",
+    "href": "writing/art-reviews/posts/on-going-to-the-flower.html",
+    "title": "On Going to the Flower",
     "section": "",
-    "text": "Date\nTitle\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Lake Kawaguchi (1950s), Tokuriki Tomikichiro. A master of the sosaku hanga (creative print) movement, Tomikichiro stripped away extraneous detail to let the subject — here, cherry blossoms framing Mount Fuji — speak entirely for itself.\n\n\nThere is a flower I have never been able to keep. Lotus belongs to lakes and still water and the particular quality of light that finds it there. For years I thought of this as a frustration. Then I read Okakura Kazuko, and understood it as something else entirely.\nOkakura wrote The Book of Tea in 1906, a slim essay addressed to a Western world he feared was misreading Japan. Tucked inside his meditation on the tea ceremony is a philosophy that goes well beyond the teacup. Respect the flower, he writes, by going to its home to see it. Not by plucking it for your own. The point is not about ownership in any narrow sense. It is about something older and harder to name: the human instinct to possess beauty rather than simply encounter it. To sever a thing from its context, bring it into your orbit, make it yours. Okakura suggests, quietly, that this instinct costs us something we do not notice losing.\nSomething similar has happened to music. A favorite song used to arrive on its own terms, on the radio, in a shop, drifting from somewhere you couldn’t place. You couldn’t summon it. And when it found you, time did something strange. It slowed. It folded back. Now we build playlists and listen on repeat, and the song remains but the encounter disappears. We have more access to beauty than any generation before us. We are also, perhaps, less often stopped in our tracks by it. The things we love most, I have come to understand, tend to resist being kept.\nI have learned this in other ways too. I have moved across continents enough times to know that the people I love cannot be carried either. Friends left in cities I no longer live in, in seasons that no longer exist. I send love from afar and hold onto the hope of encounter, that we will find ourselves one day in the same place at the same time. That the hugs will feel just as warm, the conversation just as easy, the love just as present. That it will carry us back to when the friendship first blossomed, like cherry blossoms, brilliant and brief, and worth every moment of the missing.\nI still can’t grow lotus in my mother’s garden. I go to it instead, when I can. Lakes, slow water, the right time of year. There is something it gives me there that it couldn’t give me anywhere else, and I’ve learned not to ask too hard what that something is. Okakura knew. He just also knew it couldn’t be explained to someone who had never stood at the water’s edge and chosen, for once, not to reach."
   },
   {
     "objectID": "teaching/index.html",
@@ -105,17 +119,31 @@
     "text": "Contact\nFor draft requests or research inquiries, email h.balarama@lse.ac.uk."
   },
   {
-    "objectID": "writing/index.html",
-    "href": "writing/index.html",
-    "title": "Writing",
+    "objectID": "writing/art-reviews/index.html",
+    "href": "writing/art-reviews/index.html",
+    "title": "Art Reviews & Commentary",
     "section": "",
-    "text": "A collection of writing outside the bounds of academic work — on art, on travel, and on ideas that run alongside my research.\n\n\nArt Reviews & Commentary\nReflections on exhibitions, artworks, and artists — with a particular interest in South and Southeast Asian traditions.\n\n\n\nTravel\nNotes from places visited: the textures, rhythms, and details that stay with you.\n\n\n\nEssays\nLonger-form thinking on economics, culture, and the spaces where they overlap."
+    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nOn Going to the Flower\n\n\nOn lotus, lost songs, distant friends, and what Okakura Kazuko quietly understood about all of them.\n\n\n\n\n\n\nMar 2026\n\n\nSample Review\n\n\nA placeholder post — replace this with your first review.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "writing/art-reviews/posts/sample.html",
+    "href": "writing/art-reviews/posts/sample.html",
+    "title": "Sample Review",
+    "section": "",
+    "text": "This is a template for an art review post. Delete or replace with your own writing."
+  },
+  {
+    "objectID": "writing/essays/posts/sample.html",
+    "href": "writing/essays/posts/sample.html",
+    "title": "Sample Essay",
+    "section": "",
+    "text": "This is a template for an essay post. Delete or replace with your own writing."
   },
   {
     "objectID": "writing/travel/index.html",
     "href": "writing/travel/index.html",
     "title": "Travel",
     "section": "",
-    "text": "Date\nTitle\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nSample Travel Note\n\n\nA placeholder post — replace this with your first travel piece.\n\n\n\n\n\n\nNo matching items"
   }
 ]

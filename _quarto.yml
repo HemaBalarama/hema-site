@@ -2,13 +2,9 @@ project:
   type: website
   output-dir: docs   # GitHub Actions builds and deploys this directory
   render:
-    - index.qmd
-    - research/index.qmd
-    - teaching/index.qmd
-    - writing/index.qmd
-    - writing/art-reviews/index.qmd
-    - writing/travel/index.qmd
-    - writing/essays/index.qmd
+    - "**/*.qmd"
+    - "!private/**"
+    - "!art/**"
 
 website:
   title: "Hema Balarama"
