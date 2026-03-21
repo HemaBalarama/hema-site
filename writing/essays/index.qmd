@@ -1,0 +1,11 @@
+---
+title: "Essays"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  fields: [date, title, description]
+  date-format: "MMM YYYY"
+  sort-ui: false
+  filter-ui: false
+---

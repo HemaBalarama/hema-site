@@ -5,6 +5,10 @@ project:
     - index.qmd
     - research/index.qmd
     - teaching/index.qmd
+    - writing/index.qmd
+    - writing/art-reviews/index.qmd
+    - writing/travel/index.qmd
+    - writing/essays/index.qmd
 
 website:
   title: "Hema Balarama"
@@ -16,6 +20,14 @@ website:
         href: research/index.qmd
       - text: "Teaching"
         href: teaching/index.qmd
+      - text: "Writing"
+        menu:
+          - text: "Art Reviews & Commentary"
+            href: writing/art-reviews/index.qmd
+          - text: "Travel"
+            href: writing/travel/index.qmd
+          - text: "Essays"
+            href: writing/essays/index.qmd
 
 format:
   html:

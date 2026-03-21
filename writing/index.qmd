@@ -1,11 +1,23 @@
 ---
 title: "Writing"
-draft: true
-listing:
-  contents: posts
-  sort: "date desc"
-  type: table
-  fields: [date, title]
 ---
 
-Public notes and short essays on methods, policy questions, and academic work.
+A collection of writing outside the bounds of academic work — on art, on travel, and on ideas that run alongside my research.
+
+---
+
+### [Art Reviews & Commentary](art-reviews/index.qmd)
+
+Reflections on exhibitions, artworks, and artists — with a particular interest in South and Southeast Asian traditions.
+
+---
+
+### [Travel](travel/index.qmd)
+
+Notes from places visited: the textures, rhythms, and details that stay with you.
+
+---
+
+### [Essays](essays/index.qmd)
+
+Longer-form thinking on economics, culture, and the spaces where they overlap.
