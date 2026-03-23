@@ -1,16 +1,15 @@
 [
   {
-    "listing": "/writing/essays/index.html",
+    "listing": "/writing/reflections/index.html",
     "items": [
-      "/writing/essays/posts/sample.html"
+      "/writing/reflections/posts/where-is-home.html",
+      "/writing/reflections/posts/on-going-to-the-flower.html"
     ]
   },
   {
-    "listing": "/writing/art-reviews/index.html",
+    "listing": "/writing/essays/index.html",
     "items": [
-      "/writing/art-reviews/posts/where-is-home.html",
-      "/writing/art-reviews/posts/on-going-to-the-flower.html",
-      "/writing/art-reviews/posts/sample.html"
+      "/writing/essays/posts/sample.html"
     ]
   },
   {

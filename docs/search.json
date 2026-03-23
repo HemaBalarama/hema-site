@@ -7,32 +7,74 @@
     "text": "This is a template for a travel writing post. Delete or replace with your own writing."
   },
   {
-    "objectID": "writing/index.html",
-    "href": "writing/index.html",
-    "title": "Writing",
+    "objectID": "writing/reflections/posts/where-is-home.html",
+    "href": "writing/reflections/posts/where-is-home.html",
+    "title": "Where is Home, Really?",
     "section": "",
-    "text": "A collection of writing outside the bounds of academic work — on art, on travel, and on ideas that run alongside my research.\n\n\nArt Reviews & Commentary\nReflections on exhibitions, artworks, and artists — with a particular interest in South and Southeast Asian traditions.\n\n\n\nTravel\nNotes from places visited: the textures, rhythms, and details that stay with you.\n\n\n\nEssays\nLonger-form thinking on economics, culture, and the spaces where they overlap."
+    "text": "Claire Keegan’s Foster is a small book that carries an outsized weight. A young girl is sent to stay with relatives for the summer — the Kinsellas — and what she finds there is not extraordinary. No grand gestures, no dramatic rescues. Just a household where she is noticed and allowed to simply exist. Keegan understands that for some people, that is everything.\nWhat makes the Kinsella household so affecting is its quietness. Nobody performs love there. The girl is washed, fed, taken to the beach. She is asked questions and listened to. She learns, slowly, that she does not need to earn her place at their table. Keegan renders this without sentiment. Just the slow weight of small acts of care and what they do to someone who has not known them. Most readers will recognise something in it, even if they cannot immediately say what.\nFor some, the Kinsella household is not just a fictional place. There is something most people understand about the discovered home — the friends, the colleagues, the unlikely people who show up and make room for you. What is harder to articulate is what it feels like to be seen by them after years of not quite being seen in the inherited one. The care can feel almost foreign. Strange enough that the instinct is sometimes to pull away, to make yourself smaller or to leave before you become too much. Accepting that you are accepted is its own quiet struggle.\nBut underneath it all, the inherited home never quite lets go either. It stays alongside the tenderness and the weight of being the one who holds things together. It is often in those moments, quieter than usual, that you feel most acutely what the discovered home does for you. How it holds you. How much you want it around you. And how, in keeping it at a safe distance for so long, you may have made it harder to reach for when you need it most. That is the shape of it: unresolved and ongoing.\nPerhaps this is why the ending lingers. The girl goes back. Keegan doesn’t soften it.\n“Daddy,” she keeps calling. “Daddy.”\nThe word escapes before she can stop it. She is warning her father away and calling Kinsella closer, all in the same breath. It is the most unguarded moment in the book. And maybe the most true. That we spend so long not saying the things we mean, until one day we are held just tightly enough that they come out anyway."
   },
   {
-    "objectID": "writing/essays/index.html",
-    "href": "writing/essays/index.html",
-    "title": "Essays",
+    "objectID": "writing/reflections/index.html",
+    "href": "writing/reflections/index.html",
+    "title": "Reflections",
     "section": "",
-    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nSample Essay\n\n\nA placeholder post — replace this with your first essay.\n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nWhere is Home, Really?\n\n\nOn Claire Keegan’s Foster, the inherited home, and the discovered one.\n\n\n\n\n\n\nMar 2026\n\n\nOn Going to the Flower\n\n\nOn lotus, lost songs, distant friends, and what Okakura Kazuko quietly understood about all of them.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "writing/art-reviews/posts/sample.html",
-    "href": "writing/art-reviews/posts/sample.html",
-    "title": "Sample Review",
+    "objectID": "writing/essays/posts/sample.html",
+    "href": "writing/essays/posts/sample.html",
+    "title": "Sample Essay",
     "section": "",
-    "text": "This is a template for an art review post. Delete or replace with your own writing."
+    "text": "This is a template for an essay post. Delete or replace with your own writing."
   },
   {
-    "objectID": "writing/art-reviews/index.html",
-    "href": "writing/art-reviews/index.html",
-    "title": "Art Reviews & Commentary",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nWhere is Home, Really?\n\n\nOn Claire Keegan’s Foster, the inherited home, and the discovered one.\n\n\n\n\n\n\nMar 2026\n\n\nOn Going to the Flower\n\n\nOn lotus, lost songs, distant friends, and what Okakura Kazuko quietly understood about all of them.\n\n\n\n\n\n\nMar 2026\n\n\nSample Review\n\n\nA placeholder post — replace this with your first review.\n\n\n\n\n\n\nNo matching items"
+    "text": "Department of Economics\n\n\n\nTerm\nCourse\n\n\n\n\nFall 2025\nEC2C3 · Econometrics I\n\n\nWinter 2026\nEC2C1 · Econometrics II"
+  },
+  {
+    "objectID": "teaching/index.html#london-school-of-economics-and-political-science",
+    "href": "teaching/index.html#london-school-of-economics-and-political-science",
+    "title": "Teaching",
+    "section": "",
+    "text": "Department of Economics\n\n\n\nTerm\nCourse\n\n\n\n\nFall 2025\nEC2C3 · Econometrics I\n\n\nWinter 2026\nEC2C1 · Econometrics II"
+  },
+  {
+    "objectID": "teaching/index.html#university-of-toronto",
+    "href": "teaching/index.html#university-of-toronto",
+    "title": "Teaching",
+    "section": "University of Toronto",
+    "text": "University of Toronto\nDepartment of Economics · Sept 2021 – Apr 2022\n\n\n\nTerm\nCourse\n\n\n\n\nFall 2021\nECO372 · Data Analysis and Applied Econometrics in Practice\n\n\nWinter 2022\nECO102 · Principles of Macroeconomics"
+  },
+  {
+    "objectID": "teaching/index.html#monash-university",
+    "href": "teaching/index.html#monash-university",
+    "title": "Teaching",
+    "section": "Monash University",
+    "text": "Monash University\nDepartment of Econometrics and Business Statistics · Feb 2018 – Jul 2021\n\n\n\nCourse\nTitle\n\n\n\n\nETC1000\nBusiness and Economic Statistics\n\n\nETC2410\nIntroductory Econometrics\n\n\nETC3400\nPrinciples of Econometrics\n\n\nETC3460\nFinancial Econometrics\n\n\nETF3600\nQuantitative Analysis of Limited Dependent Variables (Caulfield)\n\n\nETF5930\nFinancial Econometrics (Caulfield)\n\n\nETX2250\nData Visualisation and Analytics\n\n\n\nDepartment of Finance · Feb 2019 – Dec 2020\n\n\n\nCourse\nTitle\n\n\n\n\nBFC3241\nEquities and Investment Analysis\n\n\n\nDepartment of Economics · Aug 2018 – Dec 2019\n\n\n\nCourse\nTitle\n\n\n\n\nECC1000\nPrinciples of Microeconomics\n\n\nECC1100\nPrinciples of Macroeconomics"
+  },
+  {
+    "objectID": "teaching/index.html#university-of-melbourne",
+    "href": "teaching/index.html#university-of-melbourne",
+    "title": "Teaching",
+    "section": "University of Melbourne",
+    "text": "University of Melbourne\nMelbourne Business School · Feb 2020 – May 2020\n\n\n\nCourse\nTitle\n\n\n\n\nBUSA90499\nIntroduction to Business Problems\n\n\nBUSA90500\nBusiness Analytics Foundations (Statistical Learning I)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hema Balarama",
+    "section": "",
+    "text": "MRes/PhD Economics candidate · Department of Economics · London School of Economics\nMy research interests are in development, environmental, and labour economics.\nI hold an MA in Economics from the University of Toronto and a BComm (Hons) in Econometrics and Economics from Monash University. Prior to LSE, I was a Tobin Predoctoral Fellow at the Yale Economic Growth Center, where I worked with Professor Rohini Pande on projects examining women’s mobile access and economic outcomes in developing countries.\n\n\nh.balarama@lse.ac.uk"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Hema Balarama",
+    "section": "",
+    "text": "h.balarama@lse.ac.uk"
   },
   {
     "objectID": "research/index.html",
@@ -77,74 +119,25 @@
     "text": "Contact\nFor draft requests or research inquiries, email h.balarama@lse.ac.uk."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hema Balarama",
+    "objectID": "writing/essays/index.html",
+    "href": "writing/essays/index.html",
+    "title": "Essays",
     "section": "",
-    "text": "MRes/PhD Economics candidate · Department of Economics · London School of Economics\nMy research interests are in development, environmental, and labour economics.\nI hold an MA in Economics from the University of Toronto and a BComm (Hons) in Econometrics and Economics from Monash University. Prior to LSE, I was a Tobin Predoctoral Fellow at the Yale Economic Growth Center, where I worked with Professor Rohini Pande on projects examining women’s mobile access and economic outcomes in developing countries.\n\n\nh.balarama@lse.ac.uk"
+    "text": "Date\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 2026\n\n\nSample Essay\n\n\nA placeholder post — replace this with your first essay.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Hema Balarama",
+    "objectID": "writing/index.html",
+    "href": "writing/index.html",
+    "title": "Writing",
     "section": "",
-    "text": "h.balarama@lse.ac.uk"
+    "text": "A collection of writing outside the bounds of academic work — on art, on travel, and on ideas that run alongside my research.\n\n\nReflections\nOn art, books, and the things that stay with you.\n\n\n\nTravel\nNotes from places visited: the textures, rhythms, and details that stay with you.\n\n\n\nEssays\nLonger-form thinking on economics, culture, and the spaces where they overlap."
   },
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Department of Economics\n\n\n\nTerm\nCourse\n\n\n\n\nFall 2025\nEC2C3 · Econometrics I\n\n\nWinter 2026\nEC2C1 · Econometrics II"
-  },
-  {
-    "objectID": "teaching/index.html#london-school-of-economics-and-political-science",
-    "href": "teaching/index.html#london-school-of-economics-and-political-science",
-    "title": "Teaching",
-    "section": "",
-    "text": "Department of Economics\n\n\n\nTerm\nCourse\n\n\n\n\nFall 2025\nEC2C3 · Econometrics I\n\n\nWinter 2026\nEC2C1 · Econometrics II"
-  },
-  {
-    "objectID": "teaching/index.html#university-of-toronto",
-    "href": "teaching/index.html#university-of-toronto",
-    "title": "Teaching",
-    "section": "University of Toronto",
-    "text": "University of Toronto\nDepartment of Economics · Sept 2021 – Apr 2022\n\n\n\nTerm\nCourse\n\n\n\n\nFall 2021\nECO372 · Data Analysis and Applied Econometrics in Practice\n\n\nWinter 2022\nECO102 · Principles of Macroeconomics"
-  },
-  {
-    "objectID": "teaching/index.html#monash-university",
-    "href": "teaching/index.html#monash-university",
-    "title": "Teaching",
-    "section": "Monash University",
-    "text": "Monash University\nDepartment of Econometrics and Business Statistics · Feb 2018 – Jul 2021\n\n\n\nCourse\nTitle\n\n\n\n\nETC1000\nBusiness and Economic Statistics\n\n\nETC2410\nIntroductory Econometrics\n\n\nETC3400\nPrinciples of Econometrics\n\n\nETC3460\nFinancial Econometrics\n\n\nETF3600\nQuantitative Analysis of Limited Dependent Variables (Caulfield)\n\n\nETF5930\nFinancial Econometrics (Caulfield)\n\n\nETX2250\nData Visualisation and Analytics\n\n\n\nDepartment of Finance · Feb 2019 – Dec 2020\n\n\n\nCourse\nTitle\n\n\n\n\nBFC3241\nEquities and Investment Analysis\n\n\n\nDepartment of Economics · Aug 2018 – Dec 2019\n\n\n\nCourse\nTitle\n\n\n\n\nECC1000\nPrinciples of Microeconomics\n\n\nECC1100\nPrinciples of Macroeconomics"
-  },
-  {
-    "objectID": "teaching/index.html#university-of-melbourne",
-    "href": "teaching/index.html#university-of-melbourne",
-    "title": "Teaching",
-    "section": "University of Melbourne",
-    "text": "University of Melbourne\nMelbourne Business School · Feb 2020 – May 2020\n\n\n\nCourse\nTitle\n\n\n\n\nBUSA90499\nIntroduction to Business Problems\n\n\nBUSA90500\nBusiness Analytics Foundations (Statistical Learning I)"
-  },
-  {
-    "objectID": "writing/art-reviews/posts/on-going-to-the-flower.html",
-    "href": "writing/art-reviews/posts/on-going-to-the-flower.html",
+    "objectID": "writing/reflections/posts/on-going-to-the-flower.html",
+    "href": "writing/reflections/posts/on-going-to-the-flower.html",
     "title": "On Going to the Flower",
     "section": "",
     "text": "Lake Kawaguchi (1950s), Tokuriki Tomikichiro. A master of the sosaku hanga (creative print) movement, Tomikichiro stripped away extraneous detail to let the subject — here, cherry blossoms framing Mount Fuji — speak entirely for itself.\n\n\nThere is a flower I have never been able to keep. Lotus belongs to lakes and still water and the particular quality of light that finds it there. For years I thought of this as a frustration. Then I read Okakura Kazuko, and understood it as something else entirely.\nOkakura wrote The Book of Tea in 1906, a slim essay addressed to a Western world he feared was misreading Japan. Tucked inside his meditation on the tea ceremony is a philosophy that goes well beyond the teacup. Respect the flower, he writes, by going to its home to see it. Not by plucking it for your own. The point is not about ownership in any narrow sense. It is about something older and harder to name: the human instinct to possess beauty rather than simply encounter it. To sever a thing from its context, bring it into your orbit, make it yours. Okakura suggests, quietly, that this instinct costs us something we do not notice losing.\nSomething similar has happened to music. A favorite song used to arrive on its own terms, on the radio, in a shop, drifting from somewhere you couldn’t place. You couldn’t summon it. And when it found you, time did something strange. It slowed. It folded back. Now we build playlists and listen on repeat, and the song remains but the encounter disappears. We have more access to beauty than any generation before us. We are also, perhaps, less often stopped in our tracks by it. The things we love most, I have come to understand, tend to resist being kept.\nI have learned this in other ways too. I have moved across continents enough times to know that the people I love cannot be carried either. Friends left in cities I no longer live in, in seasons that no longer exist. I send love from afar and hold onto the hope of encounter, that we will find ourselves one day in the same place at the same time. That the hugs will feel just as warm, the conversation just as easy, the love just as present. That it will carry us back to when the friendship first blossomed, like cherry blossoms, brilliant and brief, and worth every moment of the missing.\nI still can’t grow lotus in my mother’s garden. I go to it instead, when I can. Lakes, slow water, the right time of year. There is something it gives me there that it couldn’t give me anywhere else, and I’ve learned not to ask too hard what that something is. Okakura knew. He just also knew it couldn’t be explained to someone who had never stood at the water’s edge and chosen, for once, not to reach."
-  },
-  {
-    "objectID": "writing/art-reviews/posts/where-is-home.html",
-    "href": "writing/art-reviews/posts/where-is-home.html",
-    "title": "Where is Home, Really?",
-    "section": "",
-    "text": "Claire Keegan’s Foster is a small book that carries an outsized weight. A young girl is sent to stay with relatives for the summer — the Kinsellas — and what she finds there is not extraordinary. No grand gestures, no dramatic rescues. Just a household where she is noticed and allowed to simply exist. Keegan understands that for some people, that is everything.\nWhat makes the Kinsella household so affecting is its quietness. Nobody performs love there. The girl is washed, fed, taken to the beach. She is asked questions and listened to. She learns, slowly, that she does not need to earn her place at their table. Keegan renders this without sentiment. Just the slow weight of small acts of care and what they do to someone who has not known them. Most readers will recognise something in it, even if they cannot immediately say what.\nFor some, the Kinsella household is not just a fictional place. There is something most people understand about the discovered home — the friends, the colleagues, the unlikely people who show up and make room for you. What is harder to articulate is what it feels like to be seen by them after years of not quite being seen in the inherited one. The care can feel almost foreign. Strange enough that the instinct is sometimes to pull away, to make yourself smaller or to leave before you become too much. Accepting that you are accepted is its own quiet struggle.\nBut underneath it all, the inherited home never quite lets go either. It stays alongside the tenderness and the weight of being the one who holds things together. It is often in those moments, quieter than usual, that you feel most acutely what the discovered home does for you. How it holds you. How much you want it around you. And how, in keeping it at a safe distance for so long, you may have made it harder to reach for when you need it most. That is the shape of it: unresolved and ongoing.\nPerhaps this is why the ending lingers. The girl goes back. Keegan doesn’t soften it.\n“Daddy,” she keeps calling. “Daddy.”\nThe word escapes before she can stop it. She is warning her father away and calling Kinsella closer, all in the same breath. It is the most unguarded moment in the book. And maybe the most true. That we spend so long not saying the things we mean, until one day we are held just tightly enough that they come out anyway."
-  },
-  {
-    "objectID": "writing/essays/posts/sample.html",
-    "href": "writing/essays/posts/sample.html",
-    "title": "Sample Essay",
-    "section": "",
-    "text": "This is a template for an essay post. Delete or replace with your own writing."
   },
   {
     "objectID": "writing/travel/index.html",

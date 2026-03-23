@@ -1,5 +1,5 @@
 ---
-title: "Art Reviews & Commentary"
+title: "Reflections"
 listing:
   contents: posts
   sort: "date desc"

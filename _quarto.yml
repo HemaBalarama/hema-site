@@ -5,6 +5,7 @@ project:
     - "**/*.qmd"
     - "!private/**"
     - "!art/**"
+    - "!writing/art-reviews/**"
 
 website:
   title: "Hema Balarama"
@@ -18,8 +19,8 @@ website:
         href: teaching/index.qmd
       - text: "Writing"
         menu:
-          - text: "Art Reviews & Commentary"
-            href: writing/art-reviews/index.qmd
+          - text: "Reflections"
+            href: writing/reflections/index.qmd
           - text: "Travel"
             href: writing/travel/index.qmd
           - text: "Essays"
